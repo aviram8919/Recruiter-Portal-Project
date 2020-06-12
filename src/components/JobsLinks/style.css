@@ -1,0 +1,24 @@
+.Navigation{
+    padding: 10px;
+    box-sizing: border-box;
+}
+.Navigation-links{
+    white-space: nowrap;
+    display: flex;
+    padding: 10px;
+}
+.Navigation-links a{
+    text-decoration: none;
+}
+img{
+    width: auto;
+}
+.text{
+    margin-left: 10px;
+}
+p{
+    color: #333;
+}
+.Horizontal-line{
+    border-bottom: 1px solid #333;
+}

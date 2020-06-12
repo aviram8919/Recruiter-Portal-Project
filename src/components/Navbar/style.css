@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+}
+.navbar{
+    border: 2px solid #333;
+    background-color: #fff;
+    content: "";
+    clear: both;
+    display: table;
+    width: 100%;
+}
+nav{
+    height: 50px;
+}
+nav ul .FloatRight{
+    float: right;
+    margin-right: 10px; 
+    margin-top: 10px;  
+}
+span{
+    color: #333;
+    font-weight: 500;
+    display: block;
+    padding: 5px 15px;
+    border: 2px solid #333;
+    letter-spacing: 1.5px;
+}
+nav ul .FloatLeft{
+    float: Left;
+    margin-left: 15px;
+    margin-top: 10px;   
+}
+nav li {
+    display: flex;
+    margin:20px;
+}
+.FloatRight-Dropdown{
+    border: 0px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+.verticalLine{
+    border-right: 2px solid #333;
+}

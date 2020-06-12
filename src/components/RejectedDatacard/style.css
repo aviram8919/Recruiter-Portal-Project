@@ -1,0 +1,28 @@
+.DataCard {
+    border: 2px solid #333;
+    width: 29%;
+    margin: 10px;
+    border-radius: 15px;
+}
+.DataCard-container{
+    padding:10px;
+}
+.DataCard-container img {
+    border-radius: 5px 5px 0 0;
+    margin: 4px 2px;
+}  
+.DataCard-container p{
+    margin:0
+}
+.DataCard-container li{
+    padding: 0;
+    margin: 0;
+}
+.Horizontal-line{
+    border-bottom: 2px solid #333;
+    margin: 0;
+    padding: 0;
+}
+.Reject{
+    color:#ff0000
+}

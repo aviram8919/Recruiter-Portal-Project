@@ -1,0 +1,16 @@
+body{
+  background: #fff;
+  font-family: 'Oswald', sans-serif;
+}
+
+.App
+{
+  width: 90%;
+  margin: 0 auto;
+  padding:12px;
+}
+
+.container{
+  display: flex;
+  justify-content: space-between;
+} 

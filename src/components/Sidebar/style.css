@@ -1,0 +1,8 @@
+.searchicon
+{
+    cursor: pointer;
+}
+.bottomContent{
+    position:absolute;
+    bottom: 0;
+}
